@@ -84,6 +84,7 @@ previewTextureView.applySnapFilter(this, "YOUR_INPUT_IMAGE") { status ->
             }
         }
     }
+}
 ```
  
   
