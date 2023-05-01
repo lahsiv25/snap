@@ -1,4 +1,4 @@
-# snap
+# V_Snap
 apply snap filters to static images
 
 This SDK allows you to add Snapchat-like filters to your Android application. To use this SDK, you will need to add internet permission to your manifest file and follow the instructions below.
